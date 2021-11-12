@@ -1,1 +1,3 @@
-﻿  mpi-demo-01.vcxproj -> D:\repos\uni\mpi-demo-01\mpi-demo-01\Debug\mpi-demo-01.exe
+﻿  mpi-hello-world.cpp
+D:\repos\uni\mpi-demo-01\mpi-demo-01\mpi-demo-01\mpi-hello-world.cpp(11,21): warning C4101: i: неиспользованная локальная переменная
+  mpi-demo-01.vcxproj -> D:\repos\uni\mpi-demo-01\mpi-demo-01\Debug\mpi-demo-01.exe

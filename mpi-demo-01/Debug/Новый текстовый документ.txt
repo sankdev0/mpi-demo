@@ -1,3 +1,0 @@
-mpiexec -np 3 mpi-demo-01.exe
-
-pause
