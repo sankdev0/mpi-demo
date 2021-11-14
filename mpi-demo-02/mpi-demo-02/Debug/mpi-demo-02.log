@@ -1,0 +1,3 @@
+﻿  mpi-demo-02.cpp
+D:\repos\uni\mpi-demo-01\mpi-demo-02\mpi-demo-02\mpi-demo-02.cpp(83,12): warning C4101: 'dt': unreferenced local variable
+  mpi-demo-02.vcxproj -> D:\repos\uni\mpi-demo-01\mpi-demo-02\Debug\mpi-demo-02.exe
