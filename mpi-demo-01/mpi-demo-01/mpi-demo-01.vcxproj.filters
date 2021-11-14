@@ -15,19 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="mpi-demo-01.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="mpi-hello-world.cpp">
+    <ClCompile Include="mpi-hello-world-demo.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="mpi-header.h">
-      <Filter>Исходные файлы</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
